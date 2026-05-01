@@ -1,0 +1,48 @@
+Base: C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids | Extension: .csv
+
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Friday-WorkingHours-Morning.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Monday-WorkingHours.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Tuesday-WorkingHours.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Wednesday-workingHours.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\NUSW-NB15_GT.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_1.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_2.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_3.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_4.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_LIST_EVENTS.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150617\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150635\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150718\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150734\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260321_180015\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260321_180105\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Friday-WorkingHours-Morning.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Monday-WorkingHours.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Tuesday-WorkingHours.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\ds1\Wednesday-workingHours.pcap_ISCX.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Training and Testing Sets\NUSW-NB15_features.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Training and Testing Sets\UNSW_NB15_testing-set.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Training and Testing Sets\UNSW_NB15_training-set.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\NUSW-NB15_GT.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_1.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_2.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_3.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_4.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\UNSW-NB15_LIST_EVENTS.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150617\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150635\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150718\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260319_150734\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260321_180015\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Research_Evaluation_20260321_180105\detected_alerts.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Training and Testing Sets\NUSW-NB15_features.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Training and Testing Sets\UNSW_NB15_testing-set.csv
+C:\Users\ho-\OneDrive - PMU\Spring 25-26\Cyber Ops\Project\ids\Main\Training and Testing Sets\UNSW_NB15_training-set.csv

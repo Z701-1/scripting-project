@@ -1,0 +1,88 @@
+Generated: Fri Apr 10 08:40:01 AM EDT 2026
+
+--- HOSTNAME ---
+kali
+
+---KERNEL VERSION ---
+6.16.8+kali-amd64
+
+--- CPU INFO ---
+Architecture:                            x86_64
+CPU op-mode(s):                          32-bit, 64-bit
+Address sizes:                           45 bits physical, 48 bits virtual
+Byte Order:                              Little Endian
+CPU(s):                                  4
+On-line CPU(s) list:                     0-3
+Vendor ID:                               GenuineIntel
+Model name:                              Intel(R) Core(TM) i5-14600K
+CPU family:                              6
+Model:                                   183
+Thread(s) per core:                      1
+Core(s) per socket:                      2
+Socket(s):                               2
+Stepping:                                1
+BogoMIPS:                                6988.81
+Flags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves user_shstk avx_vnni arat umip pku ospke gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md_clear serialize flush_l1d arch_capabilities
+Hypervisor vendor:                       VMware
+Virtualization type:                     full
+L1d cache:                               192 KiB (4 instances)
+L1i cache:                               128 KiB (4 instances)
+L2 cache:                                8 MiB (4 instances)
+L3 cache:                                48 MiB (2 instances)
+NUMA node(s):                            1
+NUMA node0 CPU(s):                       0-3
+Vulnerability Gather data sampling:      Not affected
+Vulnerability Ghostwrite:                Not affected
+Vulnerability Indirect target selection: Not affected
+Vulnerability Itlb multihit:             KVM: Mitigation: VMX unsupported
+Vulnerability L1tf:                      Not affected
+Vulnerability Mds:                       Not affected
+Vulnerability Meltdown:                  Not affected
+Vulnerability Mmio stale data:           Not affected
+Vulnerability Old microcode:             Not affected
+Vulnerability Reg file data sampling:    Not affected
+Vulnerability Retbleed:                  Not affected
+Vulnerability Spec rstack overflow:      Not affected
+Vulnerability Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:                Mitigation; Enhanced / Automatic IBRS; IBPB conditional; PBRSB-eIBRS SW sequence; BHI BHI_DIS_S
+Vulnerability Srbds:                     Not affected
+Vulnerability Tsa:                       Not affected
+Vulnerability Tsx async abort:           Not affected
+Vulnerability Vmscape:                   Not affected
+
+--- MEMORY ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       922Mi       504Mi        13Mi       699Mi       1.0Gi
+Swap:          953Mi          0B       953Mi
+
+--- DISK SPACE ---
+Filesystem      Size  Used Avail Use% Mounted on
+udev            865M     0  865M   0% /dev
+tmpfs           194M  1.2M  193M   1% /run
+/dev/sda1        79G   16G   59G  21% /
+tmpfs           968M  4.0K  968M   1% /dev/shm
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           968M  256K  968M   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           194M  104K  194M   1% /run/user/1000
+
+--- IP ADDRESS ---
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host noprefixroute 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 00:0c:29:ff:f8:9d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.150.130/24 brd 192.168.150.255 scope global dynamic noprefixroute eth0
+       valid_lft 1079sec preferred_lft 1079sec
+    inet6 fe80::10f1:a570:28a9:fed4/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+
+--- UPTIME ---
+ 08:40:01 up 12 min,  1 user,  load average: 0.09, 0.08, 0.05
+
+--- LOGGED IN USERS ---
+kali
